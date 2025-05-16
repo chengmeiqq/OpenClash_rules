@@ -12,3 +12,6 @@ DOMAIN-SUFFIX,api.thetvdb.com
 DOMAIN-SUFFIX,slack.com
 DOMAIN-SUFFIX,webservice.fanart.tv
 DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,api.github.com
+DOMAIN-SUFFIX,raw.githubusercontent.com
+
