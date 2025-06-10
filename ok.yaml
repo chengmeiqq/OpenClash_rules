@@ -117,7 +117,7 @@ proxy-groups:
     type: url-test
     interval: 300
   - icon: https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/OpenAI.png
-    name: BC
+    name: AIGC
     type: select
     proxies:
       - SG AUTO
