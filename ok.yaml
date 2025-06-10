@@ -84,7 +84,7 @@ rule-providers:
     format: yaml
     type: http
   openai:
-    url: https://raw.githubusercontent.com/chengmeiqq/OpenClash_rules/refs/heads/main/bc.yaml
+    url: https://raw.githubusercontent.com/chengmeiqq/OpenClash_rules/refs/heads/main/OpenAI.yaml
     path: ./ruleset/openai.yaml
     behavior: classical
     interval: 86400
