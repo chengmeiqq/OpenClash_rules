@@ -17,30 +17,30 @@ const enable = true
  * false = 禁用
  */
 const ruleOptions = {
-  apple: true, // 苹果服务
-  microsoft: true, // 微软服务
+  apple: false, // 苹果服务
+  microsoft: false, // 微软服务
   github: true, // Github服务
   google: true, // Google服务
   openai: true, // 国外AI和GPT
-  spotify: true, // Spotify
+  spotify: false, // Spotify
   youtube: true, // YouTube
-  bahamut: true, // 巴哈姆特/动画疯
-  netflix: true, // Netflix网飞
-  tiktok: true, // 国际版抖音
-  disney: true, // 迪士尼
-  pixiv: true, // Pixiv
-  hbo: true, // HBO
-  biliintl: true, // 哔哩哔哩东南亚
-  tvb: true, // TVB
-  hulu: true, // Hulu
-  primevideo: true, // 亚马逊prime video
-  telegram: true, // Telegram通讯软件
-  line: true, // Line通讯软件
-  whatsapp: true, // Whatsapp
-  games: true, // 游戏策略组
-  japan: true, // 日本网站策略组
-  tracker: true, // 网络分析和跟踪服务
-  ads: true, // 常见的网络广告
+  bahamut: false, // 巴哈姆特/动画疯
+  netflix: false, // Netflix网飞
+  tiktok: false, // 国际版抖音
+  disney: false, // 迪士尼
+  pixiv: false, // Pixiv
+  hbo: false, // HBO
+  biliintl: false, // 哔哩哔哩东南亚
+  tvb: false, // TVB
+  hulu: false, // Hulu
+  primevideo: false, // 亚马逊prime video
+  telegram: true, // Telegram
+  line: false, // Line通讯软件
+  whatsapp: false, // Whatsapp
+  games: false, // 游戏策略组
+  japan: false, // 日本网站策略组
+  tracker: false, // 网络分析和跟踪服务
+  ads: false, // 常见的网络广告
 }
 
 /**
