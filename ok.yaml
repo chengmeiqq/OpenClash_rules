@@ -14,7 +14,7 @@ rule-providers:
     format: yaml
     type: http
   telegram_domain:
-    url: https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geosite/telegram.yaml
+    url: https://raw.githubusercontent.com/chengmeiqq/OpenClash_rules/refs/heads/main/telegram.yaml
     path: ./ruleset/telegram_domain.yaml
     behavior: domain
     interval: 86400
